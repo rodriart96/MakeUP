@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Arluca64:Maracaibo64.@cluster0.txhr8.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "secretokken"
+}
